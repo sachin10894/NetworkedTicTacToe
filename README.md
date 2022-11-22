@@ -9,8 +9,8 @@ Version: Java 8 (May not run well with later verions)
 For good looking GUI, javafx with CSS has been used
 
 For Running: 
-  i) Start Server first by typing "java MyServer" in cmd
-  ii) Now start Client Side by typing "java TicTacTo2" in cmd
-  iii) Enjoy the game with server as if you are playing intelligent system :D .
+i) Start Server first by typing "java MyServer" in cmd
+ii) Now start Client Side by typing "java TicTacTo2" in cmd
+iii) Enjoy the game with server as if you are playing intelligent system :D .
 
 Have also uploaded ".jar" files which can run directly on windows. Haven't used any external downloaded library for the purpose.
