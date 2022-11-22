@@ -1,0 +1,10 @@
+.root
+{
+-fx-background-color: #b5bdff;
+-fx-font-family: "Hanging Letters";
+-fx-font-size: 18pt;
+}
+.button {
+	-fx-font-family: "Chiller";
+	-fx-font-size: 15pt;
+}

@@ -1,0 +1,9 @@
+.root
+{
+-fx-background-color: #7a9bff;
+-fx-font-family: "Cookie Dough";
+-fx-font-size: 16pt;
+}
+#gm {
+	-fx-font-size: 20pt;
+}
